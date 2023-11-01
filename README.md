@@ -54,7 +54,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the dual MIT and Apache v2 licenses. See the [Apache License v2](LICENSE_APACHE.md) and [MIT License](LICENSE_MIT.md) files for details.
+This project is licensed under the MIT or Apache v2 licenses. See the [Apache License v2](LICENSE_APACHE.md) and [MIT License](LICENSE_MIT.md) files for details.
 
 ## Acknowledgments
 
